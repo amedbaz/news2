@@ -1,35 +1,5 @@
 {
   "news2":[
-      {
-   "id":5,
-        "wene1":"https://image.tmdb.org/t/p/original/8Mhp3QzVi64CrdzlsGl6CcnqMcs.jpg",
-      "wene":"https://image.tmdb.org/t/p/original/nCzzQKGijVzfGFg42id7uDLOjY5.jpg",
-      "ism":"جون ويك",
-      "nav":"John wick 1",
-    "action":"film",
-    "aaction":" Action",
-    "raiting":"star",
-    "araitng":" 7.4",
-    "time":"time-sharp",
-    "atime":" 1h 41m",
-    "trailer":"ترەیلەر",
-    "youtube":"C0BMx-qxsP4?si=dObNFMEkGAMFQFX",
-      "youtube1":"bvaftiAu7mw?si=K1griAlc9e9fymJa",
-      "youtube2":"5fDtuvnj8RE?si=WyOmTuDOS8tnt0i0",
-      "youtube3":"ZCj30iGOObo?si=PtInh8NnipCAJD-2",
-      "jor":"John wick 1",
-        "jer":"ژێرنڤیس",
-   "play1":"https://video-delivery-worker.kurdishatlas.workers.dev/play/play.png",
-"play":"https://video-delivery-worker.kurdishatlas.workers.dev/jon/jon.mp4",
- "kurti":"کورتی",
- "akurti":"زەلامەکێ بکوژ دەست ژ کارێ خو بەردەت و بریارێ ددەت ژیانەکا ئارام بژیت بەلێ گروپەك صەیێ وی دکوژن و ھندەك تشتێن وی دبەن ئەوژی دەست ب تولڤەکرنێ دکەت",
-"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg",
-"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/qjONLp73Z5tvbuMe9g18Mb9hI0J.jpg",
- "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
- "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
- "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg",
- "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/aHAxzvcDnxPoAT592ZIaLhA90tQ.jpg",
-"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
-    }
+
  ]
 }
